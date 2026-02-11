@@ -364,16 +364,21 @@ nav a:hover {
   .minecraft-blocks {
     width: 300px;
     height: 300px;
+    left: 0%;
   }
 
   .block-main {
     width: 200px;
     height: 200px;
+    left:110px;
+    top: 10px;
   }
 
   .block-top {
     width: 100px;
     height: 100px;
+    top: 50px;
+    right: 210px;
   }
 
   .block-bottom {
